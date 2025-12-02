@@ -82,14 +82,6 @@ This project follows:
 - TrustWallet / Safepal / Metamask asset guidelines  
 
 All scripts, logo files, and metadata are included for developers who wish to integrate the token into their decentralized applications.
-
-My Telegram Channel:
-https://t.me/Matrix_Sec
-https://t.me/FLASHUSDUSDT
-
-My Main Telegram ID:
-https://t.me/Ali_Wexw
-
 ---
 
 ## 📄 License
